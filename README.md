@@ -11,5 +11,5 @@ The main application demonstrates:
   Encryption with time measurement
   Search over the server.
               
-
+Using different number of keywords by change the name of files
 
